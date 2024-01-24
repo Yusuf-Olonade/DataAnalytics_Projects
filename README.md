@@ -16,6 +16,16 @@ The interactive report in Power BI can be accessed from the overview page below
 [![](HR_Analytics_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
 
+## Unveiling the Golden Age of Video Games with SQL
+
+This is a fun project where I employed the power of PostgreSQL to reveal the years in 
+which game makers, players and critics love the most. There are two datasets, the game_sales 
+dimension table and the reviews fact table. The logic was to identify the year where both 
+players and critics gave high ratings and had the highest number of games sold. I validated 
+the data, used different SQL queries and techniques such as JOINS, WHERE, HAVING(), SET THEORY, 
+sub queries, etc to achieve this goal. It turned out that **2008** was the winner for the 3 groups.
+
+
 ## Analyzing Customer Attrition in Excel and Power BI
 
 Databel is a fictional telecom company experiencing customer churn, they
