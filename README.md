@@ -39,11 +39,12 @@ monthly charge and churn rate. Customers without unlimited data plan but use
 extra data, those without int plan but call internationally all incur extra charges 
 leading to higher customer service calls and churn rate. 
 
+Read full article [here](https://medium.com/@yusufolonade/analyzing-customer-attrition-in-excel-and-power-bi-151cf475694f).
 Follow the link in the overview page below to access the interactive report in Power BI.
 
 [![](Customer_Churn_Excel_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MDAzZTctY2E1ZC00MjdhLWEyMDEtMjVjMDE2ZGVjNGZiIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
-The Excel version of this project is also available in the folder.
+The Excel version of this project is also available [here](https://github.com/Yusuf-Olonade/DataAnalytics_Projects/blob/main/Customer_Churn_Excel_PowerBI/customer_churn.xlsx).
 
 
 ## Analyzing Product Sales Strategy with Python
