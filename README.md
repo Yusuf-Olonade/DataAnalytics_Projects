@@ -1,29 +1,19 @@
-## HR Analytics in Power BI
+## Retail Ecommerce Analytics in Power BI
 
-Atlas Labs is interested in understanding how they are performing in terms
-of EDI and employee attrition, they also want to be able to monitor the 
-performance of their employees. I analyzed the HR data and found their
-total employee to be **1470** with an attrition rate of **16.1%**. Their most active
-employees are from the technology dept, in contrast, the sales dept accounted
-for the highest attrition rate of **20.6%** mostly within the Sales Rep job role. 
-Majority of their employees are between 20-29 with a balance in gender. 
-Employees with frequent travels and over time requirements had higher attrition 
-rates. The performance tracker page can be used to monitor important metrics for each 
-employee annually.
+This project analyzes the operation of an online pet supply company, Whiskique.
+Management wants to get a general overview of the company's performance in the 
+just concluded fiscal year. Most importantly, they are seeking opportunities to
+increase sales, reduce cost and increase overall profit margin in the coming year.
+I analyzed the data focusing on upsell and cross sell startegies to meet the desired 
+goal. I developed a what-if analysis to better understand the impact of quantity 
+shipped on shipping cost. I also used a market basket analysis to inform the cross
+sell strategy. I found that there is an opportunity to reduce shipping cost by **30.69%** by 
+fully leveraging the upsell and cross sell strategies recommended.
 
-The interactive report in Power BI can be accessed from the overview page below
+Read full article here. Explore the **interactive** report in Power BI using the link
+in the Executive summary page below.
 
-[![](HR_Analytics_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
-
-
-## Unveiling the Golden Age of Video Games with SQL
-
-This is a fun project where I employed the power of PostgreSQL to reveal the years in 
-which game makers, players and critics love the most. There are two datasets, the game_sales 
-dimension table and the reviews fact table. The logic was to identify the year where both 
-players and critics gave high ratings and had the highest number of games sold. I validated 
-the data, used different SQL queries and techniques such as JOINS, WHERE, HAVING(), SET THEORY, 
-sub queries, etc to achieve this goal. It turned out that **2008** was the winner for the 3 groups.
+[![](Retail_Ecommerce_Analytics_PowerBI/executive_summary.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZmE1ODI4MmItNGQ0NC00MzIyLThiYjEtZWE2YmE0Y2ZhYTgzIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
 
 ## Analyzing Customer Attrition in Excel and Power BI
@@ -47,6 +37,16 @@ Follow the link in the overview page below to access the interactive report in P
 The Excel version of this project is also available [here](https://github.com/Yusuf-Olonade/DataAnalytics_Projects/blob/main/Customer_Churn_Excel_PowerBI/customer_churn.xlsx).
 
 
+## Unveiling the Golden Age of Video Games with SQL
+
+This is a fun project where I employed the power of PostgreSQL to reveal the years in 
+which game makers, players and critics love the most. There are two datasets, the game_sales 
+dimension table and the reviews fact table. The logic was to identify the year where both 
+players and critics gave high ratings and had the highest number of games sold. I validated 
+the data, used different SQL queries and techniques such as JOINS, WHERE, HAVING(), SET THEORY, 
+sub queries, etc to achieve this goal. It turned out that **2008** was the winner for the 3 groups.
+
+
 ## Analyzing Product Sales Strategy with Python
 
 A fictional office stationery supply company called Pens and Printers
@@ -60,6 +60,23 @@ the sales team making it the best strategy to maximize profit
 
 Read full article [here](https://app.datacamp.com/workspace/w/c55bc135-4d23-4fc5-9d7f-c9c273112851/edit).
 
+
+## HR Analytics in Power BI
+
+Atlas Labs is interested in understanding how they are performing in terms
+of EDI and employee attrition, they also want to be able to monitor the 
+performance of their employees. I analyzed the HR data and found their
+total employee to be **1470** with an attrition rate of **16.1%**. Their most active
+employees are from the technology dept, in contrast, the sales dept accounted
+for the highest attrition rate of **20.6%** mostly within the Sales Rep job role. 
+Majority of their employees are between 20-29 with a balance in gender. 
+Employees with frequent travels and over time requirements had higher attrition 
+rates. The performance tracker page can be used to monitor important metrics for each 
+employee annually.
+
+The interactive report in Power BI can be accessed from the overview page below
+
+[![](HR_Analytics_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
 
 
