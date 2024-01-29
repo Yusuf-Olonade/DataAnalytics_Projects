@@ -10,8 +10,8 @@ shipped on shipping cost. I also used a market basket analysis to inform the cro
 sell strategy. I found that there is an opportunity to reduce shipping cost by **30.69%** by 
 fully leveraging the upsell and cross sell strategies recommended.
 
-Read full article here. Explore the **interactive** report in Power BI using the link
-in the Executive summary page below.
+Follow the link in the Executive Summary page below to explore the **interactive** report 
+in Power BI.
 
 [![](Retail_Ecommerce_Analytics_PowerBI/executive_summary.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZmE1ODI4MmItNGQ0NC00MzIyLThiYjEtZWE2YmE0Y2ZhYTgzIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
@@ -59,6 +59,8 @@ the fastest response time within **2.5 weeks**. In addition it had the least cos
 the sales team making it the best strategy to maximize profit
 
 Read full article [here](https://app.datacamp.com/workspace/w/c55bc135-4d23-4fc5-9d7f-c9c273112851/edit).
+
+[![](Product_Sales_Python/sales.png)](https://app.datacamp.com/workspace/w/c55bc135-4d23-4fc5-9d7f-c9c273112851/edit)
 
 
 ## HR Analytics in Power BI
