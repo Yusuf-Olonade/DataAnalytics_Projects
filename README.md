@@ -13,8 +13,6 @@ employee annually.
 
 The interactive report in Power BI can be accessed from the overview page below
 
-[![](HR_Analytics_PowerBI/sample.gif)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
-
 [![](HR_Analytics_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
 
