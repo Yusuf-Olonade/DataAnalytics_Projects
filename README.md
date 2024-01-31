@@ -10,7 +10,7 @@ shipped on shipping cost. I also used a market basket analysis to inform the cro
 sell strategy. I found that there is an opportunity to reduce shipping cost by **30.69%** by 
 fully leveraging the upsell and cross sell strategies recommended.
 
-Follow the link in the Executive Summary page below to explore the **interactive** report 
+Read full article [here](https://medium.com/@yusufolonade/retail-ecommerce-analytics-in-power-bi-7d1ba0ebb003). Follow the link in the Executive Summary page below to explore the **interactive** report 
 in Power BI.
 
 [![](Retail_Ecommerce_Analytics_PowerBI/executive_summary.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZmE1ODI4MmItNGQ0NC00MzIyLThiYjEtZWE2YmE0Y2ZhYTgzIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
@@ -29,8 +29,7 @@ monthly charge and churn rate. Customers without unlimited data plan but use
 extra data, those without int plan but call internationally all incur extra charges 
 leading to higher customer service calls and churn rate. 
 
-Read full article [here](https://medium.com/@yusufolonade/analyzing-customer-attrition-in-excel-and-power-bi-151cf475694f).
-Follow the link in the overview page below to access the interactive report in Power BI.
+Read full article [here](https://medium.com/@yusufolonade/analyzing-customer-attrition-in-excel-and-power-bi-151cf475694f). Follow the link in the overview page below to access the interactive report in Power BI.
 
 [![](Customer_Churn_Excel_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MDAzZTctY2E1ZC00MjdhLWEyMDEtMjVjMDE2ZGVjNGZiIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
