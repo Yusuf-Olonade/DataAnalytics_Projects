@@ -1,15 +1,3 @@
-## Wake County FY 2019 Financial Audit
-
-The goal of this project was to perform a financial audit of Wake County for FY2019. 
-I performed detailed financial analysis using advanced Power BI UX report functionalities 
-such as navigation buttons, bookmarks, drill throughs, customized tooltips, icons, progressive disclosures, 
-drill downs, scatter charts with play buttons, Q&A, etc. The county went over budget by **$108.36M**
-
-Explore interactive report in Power BI below
-
-[![](WakeCounty_WatchDog/wakecounty.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZWJiZDAxYjQtMWIzMC00ZmM0LTk2ZGMtZWFjMzdkZmIyMzc0IiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
-
-
 ## Retail Ecommerce Analytics in Power BI
 
 This project analyzes the operation of an online pet supply company, Whiskique.
@@ -99,7 +87,16 @@ The interactive report in Power BI can be accessed from the overview page below
 [![](HR_Analytics_PowerBI/overview_page.PNG)](https://app.powerbi.com/view?r=eyJrIjoiYTdjODc1NjYtMzc1Ni00OTczLWE4MjgtNTU2YzIwMGRjYjYwIiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
 
 
+## Wake County FY 2019 Financial Audit
 
+The goal of this project was to perform a financial audit of Wake County for FY2019. 
+I performed detailed financial analysis using advanced Power BI UX report functionalities 
+such as navigation buttons, bookmarks, drill throughs, customized tooltips, icons, progressive disclosures, 
+drill downs, scatter charts with play buttons, Q&A, etc. The county went over budget by **$108.36M**
+
+Explore interactive report in Power BI below
+
+[![](WakeCounty_WatchDog/wakecounty.PNG)](https://app.powerbi.com/view?r=eyJrIjoiZWJiZDAxYjQtMWIzMC00ZmM0LTk2ZGMtZWFjMzdkZmIyMzc0IiwidCI6ImViNmY1ODUzLTZhODUtNDRjZC1hNGJiLTM3YzhiYjEzOWJjYyJ9)
  
 
 
